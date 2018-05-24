@@ -1,3 +1,3 @@
 export PATH=/usr/local/pgsql/bin:$PATH
-dropdb K
-createdb --encoding=KOI8-R K && createlang plpgsql K && psql -f kp_rtb.sql K
+dropdb test
+createdb --encoding=KOI8-R test && createlang plpgsql test && psql -f kp_rtb.sql test
