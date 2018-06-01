@@ -476,6 +476,20 @@ INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '201
 INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:50.0', point(131, 141), TRUE, TRUE, TRUE);
 INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:31:00.0', point(132, 142), TRUE, TRUE, TRUE);
 
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:00.0', point(90, 90), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:10.0', point(91, 89), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:20.0', point(92, 88), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:30.0', point(93, 87), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:40.0', point(94, 86), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:50.0', point(95, 85), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:00.0', point(96, 84), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:10.0', point(97, 83), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:20.0', point(98, 82), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:30.0', point(99, 81), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:40.0', point(100, 80), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:50.0', point(101, 79), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:31:00.0', point(102, 78), TRUE, TRUE, TRUE);
+
 INSERT INTO RLS VALUES (nextval('rls_id_seq'), 2, 1, NULL, 100, point(140, 120), 2);
 
 INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:00.0', point(120, 130), TRUE, TRUE, TRUE);
@@ -492,6 +506,20 @@ INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '201
 INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:50.0', point(131, 141), TRUE, TRUE, TRUE);
 INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:31:00.0', point(132, 142), TRUE, TRUE, TRUE);
 
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:00.0', point(90, 90), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:10.0', point(91, 89), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:20.0', point(92, 88), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:30.0', point(93, 87), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:40.0', point(94, 86), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:50.0', point(95, 85), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:00.0', point(96, 84), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:10.0', point(97, 83), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:20.0', point(98, 82), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:30.0', point(99, 81), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:40.0', point(100, 80), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:50.0', point(101, 79), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:31:00.0', point(102, 78), TRUE, TRUE, TRUE);
+
 INSERT INTO RLS VALUES (nextval('rls_id_seq'), 2, 1, NULL, 70, point(140, 140), 1);
 
 INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:00.0', point(120, 130), TRUE, TRUE, TRUE);
@@ -507,6 +535,20 @@ INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '201
 INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:40.0', point(130, 140), TRUE, TRUE, TRUE);
 INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:50.0', point(131, 141), TRUE, TRUE, TRUE);
 INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:31:00.0', point(132, 142), TRUE, TRUE, TRUE);
+
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:00.0', point(90, 90), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:10.0', point(91, 89), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:20.0', point(92, 88), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:30.0', point(93, 87), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:40.0', point(94, 86), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:50.0', point(95, 85), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:00.0', point(96, 84), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:10.0', point(97, 83), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:20.0', point(98, 82), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:30.0', point(99, 81), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:40.0', point(100, 80), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:50.0', point(101, 79), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:31:00.0', point(102, 78), TRUE, TRUE, TRUE);
 
 INSERT INTO RLS VALUES (nextval('rls_id_seq'), 2, 1, NULL, 60, point(80, 85), 2);
 
@@ -641,6 +683,20 @@ INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '201
 INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:40.0', point(1, 50), TRUE, TRUE, TRUE);
 INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:50.0', point(1, 45), TRUE, TRUE, TRUE);
 INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:31:00.0', point(1, 40), TRUE, TRUE, TRUE);
+
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:00.0', point(90, 90), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:10.0', point(91, 89), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:20.0', point(92, 88), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:30.0', point(93, 87), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:40.0', point(94, 86), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:29:50.0', point(95, 85), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:00.0', point(96, 84), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:10.0', point(97, 83), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:20.0', point(98, 82), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:30.0', point(99, 81), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:40.0', point(100, 80), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:30:50.0', point(101, 79), TRUE, TRUE, TRUE);
+INSERT INTO target VALUES (nextval('target_id_seq'), currval('rls_id_seq'), '2018-05-18 14:31:00.0', point(102, 78), TRUE, TRUE, TRUE);
 
 INSERT INTO RLS VALUES (nextval('rls_id_seq'), 7, NULL, 2, 100, point(90, 40), 1);
 
